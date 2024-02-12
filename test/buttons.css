@@ -1,0 +1,54 @@
+.p {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 0;
+    margin-bottom: 0px;
+    font-weight: 500;
+    color: rgb(96, 96, 96);
+    font-size: 14px;
+}
+
+.video_title {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    width: 280px;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+.line_text {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    line-height: 24px;
+}
+
+.video_creator {
+    font-size: 14px; 
+    color: rgb(96, 96, 96);
+}
+
+.video_description {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    line-height: 24px;
+    width: 280px;
+}
+
+.call_button{
+    margin-top: 50px;
+    font-size: 14px;
+    color: white;
+    background-color: rgb(227, 65, 64);
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    
+}
+
+.action_button{
+    cursor: pointer;
+}
+
+.action_button:hover{
+    text-decoration: underline;
+}
